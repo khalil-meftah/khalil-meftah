@@ -10,7 +10,7 @@
 
 ---
 
-### ![toolbox_1f9f0](https://user-images.githubusercontent.com/86771559/194462901-8721b4ff-3804-44f2-b8d8-16140e52a7c3.png) Languages and Tools
+### ![toolbox_1f9f0](https://user-images.githubusercontent.com/86771559/194462901-8721b4ff-3804-44f2-b8d8-16140e52a7c3.png =200x200) Languages and Tools
 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,7 +30,7 @@
 
 ---
 
-## ![bar-chart_1f4ca](https://user-images.githubusercontent.com/86771559/194462899-30c3003a-b42b-4796-810b-7bb033c1e327.png) Account Statistics
+### ![bar-chart_1f4ca](https://user-images.githubusercontent.com/86771559/194462899-30c3003a-b42b-4796-810b-7bb033c1e327.png =200x200) Account Statistics
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-meftah&show_icons=true&theme=ayu-mirage)
 
