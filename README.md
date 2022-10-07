@@ -10,7 +10,7 @@
 
 ---
 
-###  Languages and Tools
+###  <img src="./img/toolbox.png" width="100" height="100" /> Languages and Tools
 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,7 +30,7 @@
 
 ---
 
-###  Account Statistics
+### <img src="./img/bar-chart.png" width="100" height="100" />  Account Statistics
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-meftah&show_icons=true&theme=ayu-mirage)
 
