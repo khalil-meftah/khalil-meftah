@@ -25,4 +25,6 @@
 <br>
 #
 
+### 📊 Stats
+
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-meftah&show_icons=true&theme=ayu-mirage)
