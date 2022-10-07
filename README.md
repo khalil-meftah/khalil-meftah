@@ -1,5 +1,6 @@
 
-![name-github](https://user-images.githubusercontent.com/86771559/194461381-3fe1ada0-6ef3-4a6b-b0b7-48a3482eebcb.png)
+![name-github](https://user-images.githubusercontent.com/86771559/194462187-b52586ff-0dae-49cb-8241-9f89251319f1.png)
+
 
 
 - 👀 I’m interested in Full stack web developement
@@ -11,7 +12,7 @@
 
 ### 🧰 Languages and Tools
 
-
+<div>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -25,7 +26,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+</div>
 ---
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-meftah&show_icons=true&theme=ayu-mirage)
