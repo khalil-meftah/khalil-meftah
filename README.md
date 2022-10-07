@@ -1,4 +1,5 @@
-![name-github](https://user-images.githubusercontent.com/86771559/194460985-7f6fa376-845e-458f-ad86-eb41afd93c17.png)
+
+![name-github](https://user-images.githubusercontent.com/86771559/194461381-3fe1ada0-6ef3-4a6b-b0b7-48a3482eebcb.png)
 
 
 - 👀 I’m interested in Full stack web developement
@@ -26,7 +27,5 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br>
 #
-
-### 📊 Stats
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-meftah&show_icons=true&theme=ayu-mirage)
