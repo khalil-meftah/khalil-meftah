@@ -9,7 +9,7 @@ I'm passionate about Full Stack Web Development, with a keen interest in buildin
 
 I'm actively seeking opportunities to collaborate on exciting full stack website projects, so feel free to reach out to me via 📫 email at khalile.meftah@gmail.com.
 
-Check out my website 🌐 khalil-meftah.github.io/portfolio/ 
+Check out my website 🌐 [here](https://khalil-meftah.github.io/portfolio/) !
 
 Let's create something amazing together! 😄
 
